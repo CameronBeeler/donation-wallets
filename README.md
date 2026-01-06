@@ -25,10 +25,6 @@ qzggs80wnlgcryyf30a425psh5wzyax03vste7mjas
 LXwo1eJ9BkGVcjt4Qj95b89pxPgxdJQWBG
 ```
 
-### XRP Ripple
-```
-```
-
 ### DOGEcoin
 ```
 DMBbk2zKpgMWvACYAW4WnnvUNraTtXxGeM
@@ -36,4 +32,10 @@ DMBbk2zKpgMWvACYAW4WnnvUNraTtXxGeM
 
 ### XLM Stellar
 ```
+GBTAJI7J6QQG3BRQHNH4EDQJAQO2JQLZ5O3LMDIJ2MOVMRUJZ74CGL4A
+```
+
+### XRP
+```
+rG7eK6fn4ihLGhmWeXLbHxW92MV1aB3dzz
 ```
